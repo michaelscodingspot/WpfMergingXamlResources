@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:collections="clr-namespace:System.Collections;assembly=mscorlib"
+					xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    >
+    <Thickness x:Key="Thickness.Normal" >10</Thickness>
+	<system:Double x:Key="Size.Normal">10</system:Double>
+
+</ResourceDictionary>
